@@ -1,0 +1,9 @@
+list1 = ['p', 'i', 'z', 'z', 'a']
+print("".join(list1))
+ 
+# Joining with string
+
+#joining "-" after each letter in pizza
+ 
+list1 = " geeks "
+print("-".join(list1))
